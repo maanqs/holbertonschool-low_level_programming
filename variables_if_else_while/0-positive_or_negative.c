@@ -1,7 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* more headers goes there */
 
+/* betty style doc for function main goes there */
 /**
  * main	-	Assigns	a	random	number	to	n	each	time	it	is	executed,
  * and	prints	whether	the	number	is	positive,	zero,	or	negative.
@@ -15,6 +17,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+	/* your code goes there */
 
 	if	(n	>	0)
 	{

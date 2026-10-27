@@ -2,11 +2,12 @@
 #include	<stdlib.h>
 #include	<time.h>
 
-/**main	-	Affiche	les	nombres	de	0	à	9
- *
- *Return:	Always	0	(success)
- *
- */
+/**
+*main	-	Affiche	les	en	base	de	10.
+*
+*Return:	Always	0	(success)
+*
+*/
 
 int	main(void)
 {

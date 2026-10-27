@@ -3,11 +3,10 @@
 #include	<time.h>
 
 /**
- * main - Prints numbers from 0 to 9
- *
- * Return: Always 0 (success)
- */
- 
+*main	-	Affiche	aussi	en	base	de	10.
+*
+*Return:	Always	0	(Success)
+*/
 int	main(void)
 {
 int	number;

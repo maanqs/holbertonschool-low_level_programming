@@ -6,7 +6,7 @@ int main(void)
 {
     int letter = 97;
 
-while (letter <= 122)
+while   (letter <= 122)
 {
     putchar(letter++);
     putchar('\n');

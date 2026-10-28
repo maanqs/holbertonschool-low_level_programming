@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _abs - sert a faire ca.
+ * _abs	-		calcule ne nombre absoulu.
  *
  * @n: caractere spe
  *
- * Return:
+ *Return: always succes 0 
  *
  */
 

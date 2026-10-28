@@ -5,7 +5,7 @@
  *
  * @n: caractere spe
  *
- *Return: always succes 0 
+ *Return:	always	succes	0
  *
  */
 

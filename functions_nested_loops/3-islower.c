@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower - Verifie si cest une min.
+ *_islower	-	Verifie si cest une min.
  *
  * @c: le caractere a verifier
  *

@@ -5,7 +5,7 @@
  *
  * @c: le caractere a verifier
  *
- * return: 1 si c est une minuscule, sinon 0.
+ *Return: 1 si c est une minuscule, sinon 0.
  */
 
 int _islower(int c)

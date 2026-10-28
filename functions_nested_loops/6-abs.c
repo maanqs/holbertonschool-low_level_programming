@@ -2,7 +2,7 @@
 
 /**
  * _abs - sert a faire ca.
- * 
+ *
  * @n: caractere spe
  *
  * Return:

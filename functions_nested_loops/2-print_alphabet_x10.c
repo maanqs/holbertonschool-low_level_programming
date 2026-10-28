@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_alphabet	-	Affiche	l'alphabet.
+ *print_alphabet_x10	-	Affiche	l'alphabet.
  *
  *return: Always 0 (Success)
  */

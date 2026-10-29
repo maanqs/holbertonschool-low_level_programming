@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* main - check the code
+*print_numbers - Affiche nombre.
 *
-* Return: Always 0.
+*Return: Always 0.
 */
 
 void print_numbers(void)

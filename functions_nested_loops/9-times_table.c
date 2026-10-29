@@ -2,9 +2,9 @@
 
 /**
  * times_table - Table de multiplication
- * 
+ *
  * Return: jdsjcnjknc
- * 
+ *
  */
 void times_table(void)
 {

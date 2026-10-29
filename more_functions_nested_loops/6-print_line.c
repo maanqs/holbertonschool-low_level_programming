@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* print_line - Dessine une ligne droite avec le caractère dit
-* @n: Le nombre de fois que le caractère _ doit être affiché
-* Return: void
+*print_line - Dessine une ligne droite avec le caractère dit
+*@n: Le nombre de fois que le caractère _ doit être affiché
+*Return: void
 */
 void print_line(int n)
 {
